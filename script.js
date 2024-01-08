@@ -1,0 +1,1 @@
+consolelog("another file")
